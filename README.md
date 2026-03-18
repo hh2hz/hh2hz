@@ -1,62 +1,48 @@
-<h2 align="left">Hi 👋! My name is Abdulla and I'm a Full-Stack Developer & Electrical Engineer from Bahrain.</h2>
+<h2 align="left">Hi 👋! My name is Ali and I'm an Electrical Engineering Student from Bahrain.</h2>
 
 ### 🚀 About Me  
 
-- 🔭 I’m currently working on: **Real-time applications & PLC programming**  
-- 🌱 I’m learning: **Go, WebSockets, AI, and Ladder Logic**  
-- 🎯 Interests: **Full-stack development, Embedded Systems, AI & Automation, electrical**  
-- ⚡ Fun Fact: **I love working on projects that merge software and hardware!**
+- 🎓 I’m currently: **A final-year Electrical Engineering student, graduating this semester**
+- 🔭 I’m working on: **Control systems, robotics, and embedded systems projects**
+- 🌱 I’m learning: **Advanced control systems, AI integration, and industrial automation**
+- 🎯 Interests: **Electrical engineering, robotics, embedded systems, automation, and problem-solving**
+- ⚡ Fun Fact: **I enjoy building projects that combine software, electronics, and real-world engineering applications**
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdulla-22&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdulla-22&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hh2hz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hh2hz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph" />
 </div>  
 
 ---
 
-
 ### 🛠 Tech Stack  
 
 <div align="right">
-  <img align="right" src="https://github.com/Abdulla-22/Abdulla-22/blob/main/assets/Animation%20-%201740653882107.gif?raw=true" 
-        width="200" alt="GIF Animation">
+  <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="GIF Animation">
 </div>
 
-<br>
-<br>
+<br><br>
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="MATLAB logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="Arduino logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="Raspberry Pi logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="Docker logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="Go logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/labview/labview-original.svg" height="40" alt="labview logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
 </div>
+
 <br>
 
 ---
@@ -64,13 +50,13 @@
 ### 🌐 Connect with Me  
 
 <div align="left">
-  <a href="https://linkedin.com/in/abdulla-yusuf-96847221b/" target="_blank">
+  <a href="https://www.linkedin.com/in/alihubail03/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
   </a>
-  <a href="https://github.com/Abdulla-22" target="_blank">
+  <a href="https://github.com/hh2hz" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35" />
   </a>
-  <a href="mailto:abdulla2yusuf@gmail.com" target="_blank">
+  <a href="mailto:alihubail003@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
   </a>
 </div>
@@ -79,4 +65,4 @@
 
 ### 📊 Profile Views  
 
-![Profile Views](https://komarev.com/ghpvc/?username=Abdulla-22&label=PROFILE+VIEWS&style=flat-square&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=hh2hz&label=PROFILE+VIEWS&style=flat-square&color=blue)
