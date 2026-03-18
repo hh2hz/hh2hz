@@ -10,15 +10,10 @@
 
 ---
 
-<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=hh2hz&show_icons=true&theme=tokyonight&hide_border=true"
-       height="150"/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hh2hz&layout=compact&theme=tokyonight&hide_border=true"
-       height="150"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hh2hz&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hh2hz&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
 
 ---
 
