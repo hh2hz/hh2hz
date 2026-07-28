@@ -1,8 +1,8 @@
-<h2 align="left">Hi 👋! My name is Ali and I'm an Electrical Engineering Student from Bahrain.</h2>
+<h2 align="left">Hi 👋! My name is Ali and I'm an Electrical Engineering Graduate from Bahrain.</h2>
 
 ### 🚀 About Me  
 
-- 🎓 I’m currently: **A final-year Electrical Engineering student, graduating this semester**
+- 🎓 I’m currently: **A final-year Electrical Engineering Graduate, graduating this semester**
 - 🔭 I’m working on: **Control systems, robotics, and embedded systems projects**
 - 🌱 I’m learning: **Advanced control systems, AI integration, and industrial automation**
 - 🎯 Interests: **Electrical engineering, robotics, embedded systems, automation, and problem-solving**
