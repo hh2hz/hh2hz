@@ -2,7 +2,7 @@
 
 ### 🚀 About Me  
 
-- 🎓 I’m currently: **A final-year Electrical Engineering Graduate, graduating this semester**
+- 🎓 I’m currently: **An Electrical Engineering Graduate**
 - 🔭 I’m working on: **Control systems, robotics, and embedded systems projects**
 - 🌱 I’m learning: **Advanced control systems, AI integration, and industrial automation**
 - 🎯 Interests: **Electrical engineering, robotics, embedded systems, automation, and problem-solving**
