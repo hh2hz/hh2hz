@@ -55,9 +55,3 @@ Tunes PI/PD/PID controllers with Black Hole Optimization and benchmarks them aga
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-
-<div align="center">
-
-💬 Feel free to reach out on [Discord](https://discord.com/users/173406327375134721)
-
-</div>
