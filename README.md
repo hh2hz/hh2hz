@@ -1,8 +1,6 @@
 <div align="center">
 
-# Ali Hubail
-
-**Electrical Engineer · Control Systems · Automation · Power Systems**
+<img src="https://raw.githubusercontent.com/hh2hz/hh2hz/main/assets/banner.svg" alt="Ali Hubail - Electrical Engineer" width="100%" />
 
 Bahrain 🇧🇭 · Bahrain Polytechnic '26
 
@@ -34,6 +32,8 @@ Tunes PI/PD/PID controllers with Black Hole Optimization and benchmarks them aga
 - MATLAB App Designer GUI and a Python desktop app with step-by-step algorithm visualization
 - Hardware-in-the-loop tuning on an Arduino-based prototype
 - Windows installer in the [Releases](https://github.com/Abdulla-22/BHO-PID-Optimizer/releases)
+
+<img src="https://github.com/Abdulla-22/BHO-PID-Optimizer/raw/main/docs/assets/bho-workflow.gif" alt="BHO workflow: generate candidate controller gains, evaluate responses, move toward the best gains, and validate the tuned controller" width="100%" />
 
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
